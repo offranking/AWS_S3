@@ -49,5 +49,31 @@ In the properties section of this bucket, the settings on the right side are cur
 <img width="1352" alt="Screenshot 2025-06-19 at 9 21 33 pm" src="https://github.com/user-attachments/assets/08de5281-6bc1-4aff-b82d-52db673f0a37" />
 
 
+Click on edit enable and save changes
+
+
+<img width="1432" alt="Screenshot 2025-06-20 at 10 16 28 am" src="https://github.com/user-attachments/assets/98fcbe17-7a9f-466d-8855-9eb7c80af7af" />
+
+uploading the change files
+
+
+<img width="646" alt="Screenshot 2025-06-19 at 11 40 56 pm" src="https://github.com/user-attachments/assets/fab24160-fe69-4918-8f71-da702ea24588" />
+
+By clicking on "Show versions," you’ll be able to view all the different versions of the files you’ve uploaded to the bucket.
+
+<img width="1206" alt="Screenshot 2025-06-19 at 10 39 02 pm" src="https://github.com/user-attachments/assets/f9960932-47b0-4946-aa5c-3cd6c356912d" />
+
+Block all the public access.
+
+
+<img width="1219" alt="Screenshot 2025-06-20 at 10 39 32 am" src="https://github.com/user-attachments/assets/7b0aad93-6f87-435c-9f9b-ac6d9ece7baa" />
+<img width="502" alt="Screenshot 2025-06-19 at 9 55 41 pm" src="https://github.com/user-attachments/assets/ea1ad3c8-a673-46dd-ace9-0e6776445936" />
+
+By taking this action, you're granting public access to all the files in your S3 bucket. This confirmation step is important—it ensures you're fully aware of the implications of making your content publicly available. Proceeding with care helps you maintain control while unlocking the power and flexibility of Amazon S3 for broader access and sharing.
+
+<img width="1219" alt="Screenshot 2025-06-20 at 10 45 47 am" src="https://github.com/user-attachments/assets/9316771f-50dc-40d1-84b8-bdf16c3813d8" />
+
+
+
 
 
