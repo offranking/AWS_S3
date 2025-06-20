@@ -82,4 +82,34 @@ here is the policy generator
 <img width="1298" alt="Screenshot 2025-06-19 at 10 09 25 pm" src="https://github.com/user-attachments/assets/5c0f28f4-506d-4e7f-bde8-e6150f47a5bf" />
 
 
+Click o Save Changes.
+
+<img width="1206" alt="Screenshot 2025-06-20 at 11 27 15 am" src="https://github.com/user-attachments/assets/a6d700d7-91cb-4421-af21-c7189399b389" />
+
+Now click on this version of file
+
+<img width="1352" alt="Screenshot 2025-06-19 at 9 44 33 pm" src="https://github.com/user-attachments/assets/fb1e3531-c11e-49a6-bf19-600980fd95d1" />
+
+Click on the object URL
+
+<img width="1167" alt="Screenshot 2025-06-19 at 10 40 55 pm" src="https://github.com/user-attachments/assets/60a20d11-841f-4951-baab-5699a58a7e1d" />
+
+
+click on Add lifecycle rule.
+<img width="1252" alt="Screenshot 2025-06-19 at 10 44 22 pm" src="https://github.com/user-attachments/assets/9b39e69e-114d-4ae1-8e0b-3090eeffb6f0" />
+
+Click to creat rule.
+
+<img width="1055" alt="Screenshot 2025-06-19 at 10 50 10 pm" src="https://github.com/user-attachments/assets/2798e616-3235-4869-bea5-4843f4f08e4c" />
+
+<img width="1284" alt="Screenshot 2025-06-19 at 10 53 38 pm" src="https://github.com/user-attachments/assets/ea8fc46f-1707-4979-b86a-a02766ca76e7" />
+
+Now the  lifecycle policy is being created successfully
+
+<img width="1284" alt="Screenshot 2025-06-19 at 10 59 50 pm" src="https://github.com/user-attachments/assets/9e8ec3ce-8f38-4ae6-b7ba-01817b017182" />
+
+
+
+
+
 
