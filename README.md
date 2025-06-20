@@ -69,11 +69,17 @@ Block all the public access.
 <img width="1219" alt="Screenshot 2025-06-20 at 10 39 32 am" src="https://github.com/user-attachments/assets/7b0aad93-6f87-435c-9f9b-ac6d9ece7baa" />
 <img width="502" alt="Screenshot 2025-06-19 at 9 55 41 pm" src="https://github.com/user-attachments/assets/ea1ad3c8-a673-46dd-ace9-0e6776445936" />
 
-By taking this action, you're granting public access to all the files in your S3 bucket. This confirmation step is important—it ensures you're fully aware of the implications of making your content publicly available. Proceeding with care helps you maintain control while unlocking the power and flexibility of Amazon S3 for broader access and sharing.
+By taking this action, you're granting public access to all the files in your S3 bucket. This confirmation step is important it ensures you're fully aware of the implications of making your content publicly available. Proceeding with care helps you maintain control while unlocking the power and flexibility of Amazon S3 for broader access and sharing.
 
 <img width="1219" alt="Screenshot 2025-06-20 at 10 45 47 am" src="https://github.com/user-attachments/assets/9316771f-50dc-40d1-84b8-bdf16c3813d8" />
 
+To define what actions the public can perform on your files, create a bucket policy by clicking on "Edit." This allows you to customize permissions and ensure your S3 bucket is accessible in exactly the way you intend.
 
+<img width="1328" alt="Screenshot 2025-06-19 at 10 05 56 pm" src="https://github.com/user-attachments/assets/f16b24fc-9db9-4413-a9d2-65e81a7f2f34" />
+
+here is the policy generator
+
+<img width="1298" alt="Screenshot 2025-06-19 at 10 09 25 pm" src="https://github.com/user-attachments/assets/5c0f28f4-506d-4e7f-bde8-e6150f47a5bf" />
 
 
 
